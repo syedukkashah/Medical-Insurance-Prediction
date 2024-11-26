@@ -1,4 +1,4 @@
-#Project Overview
+##Project Overview
 The "Medical Insurance Prediction System" is a comprehensive machine learning application developed to predict the cost of medical insurance based on user-provided demographic, lifestyle, and health-related information. This project combines Artificial Intelligence (AI) with a visually appealing Graphical User Interface (GUI) built using Python and Tkinter. The system integrates data preprocessing, predictive modeling, and visualization to provide an intuitive user experience.
 
 This project is designed for educational purposes as part of the Fall 2024 AI and Programming curriculum, showcasing how machine learning can be seamlessly integrated into a functional and user-friendly application. The project also emphasizes practical implementations of machine learning concepts and GUI design principles in Python.

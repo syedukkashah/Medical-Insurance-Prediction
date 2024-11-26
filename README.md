@@ -78,19 +78,4 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
    ```bash
    python main.py
    ```  
-4. Input the necessary details or upload a dataset to get predictions and visualizations.
-
----
-
-## **Future Enhancements**
-- **Dynamic Model Loading**: Allow users to select or upload different machine learning models.  
-- **Cloud Integration**: Enable cloud-based predictions and data storage.  
-- **Export Results**: Add functionality to export predictions and visualizations as reports.
-
----
-
-This project showcases the seamless integration of **AI and GUI development**, offering students a hands-on opportunity to apply machine learning concepts in real-world applications.
-
---- 
-
-Copy and paste this content into a `.md` file, and it will render properly in Markdown-supported environments like GitHub or VS Code!
+4. upload dataset to get predictions and visualizations.

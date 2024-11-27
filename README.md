@@ -23,7 +23,6 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
 - Provides a responsive and scrollable interface for users to input details, visualize data, and interact with the system.
 
 ### **3. Logo and Branding**
-- Includes a customizable **logo** displayed prominently in the application.
 - Ensures branding consistency for academic or professional purposes.
 
 ### **4. Data Input**
@@ -61,10 +60,10 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
 
 ### **2. Libraries and Frameworks**
 - **Tkinter**: For building the user interface.
-- **Pillow (PIL)**: For image processing and displaying the application's logo.
 - **scikit-learn**: For machine learning model development and preprocessing.
 - **pandas**: For data manipulation and preprocessing.
 - **matplotlib and seaborn**: For data visualization.
+- **numpy** for numerical manpulation
 
 ---
 
@@ -72,7 +71,7 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
 1. Ensure Python is installed on your machine.  
 2. Install the required libraries using the following command:  
    ```bash
-   pip install tkinter pillow scikit-learn pandas matplotlib seaborn
+   pip install tkinter scikit-learn pandas matplotlib seaborn
    ```  
 3. Run the Python script to launch the application:  
    ```bash

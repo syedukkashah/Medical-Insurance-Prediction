@@ -72,9 +72,10 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
 2. Install the required libraries using the following command:  
    ```bash
    pip install tkinter scikit-learn pandas matplotlib seaborn
-   ```  
-3. Run the Python script to launch the application:  
+   ```
+3. Install Montserrat fonts   
+4. Run the Python script to launch the application:  
    ```bash
    python main.py
    ```  
-4. upload dataset to get predictions and visualizations.
+5. upload dataset to get predictions and visualizations.

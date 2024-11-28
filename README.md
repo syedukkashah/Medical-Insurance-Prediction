@@ -78,4 +78,4 @@ This project is designed for educational purposes as part of the **Fall 2024 AI 
    ```bash
    python main.py
    ```  
-5. upload dataset to get predictions and visualizations.
+5. Upload dataset to get predictions and visualizations.

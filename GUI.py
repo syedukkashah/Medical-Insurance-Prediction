@@ -590,7 +590,7 @@ class MedicalInsuranceApp:
             canvas_widget.pack(expand=True, fill='both', padx=10, pady=10)
 
 
-# Add this at the end of the script
+
 if __name__ == "__main__":
     root = tk.Tk()
     app = MedicalInsuranceApp(root)
